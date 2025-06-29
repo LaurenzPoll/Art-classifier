@@ -26,6 +26,7 @@
 Objective measures
 **Phase 1:**
 - *Success metric:* 70% accuracy on test set.
+    - iteration 0 achieved 80% accuracy on the test set where the art is a paiting and one of 4 predefined styles
 
 **Phase 2:**
 - *Success metric:* ≥ 70% accuracy in correct subgroup assignment, plus teachers feedback.

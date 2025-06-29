@@ -11,8 +11,8 @@
 - **Labels:** CSV file with headers: "ID	FILE	AUTHOR	BORN-DIED	TITLE	DATE	TECHNIQUE	LOCATION	FORM	TYPE	SCHOOL	TIMELINE	URL" (tab delimiter)
 
 ### Computing
-- **Hardware:** Personal laptop (CPU, possible GPU)
-- **Storage:** Sufficient for toy dataset; will not process the full 500K images.
+- **Hardware:** Personal laptop (GPU - NVIDEA GeForce RTX 3050 Ti)
+- **Storage:** Sufficient for toy dataset; No capacity for the full 500K image dataset
 
 ### Software
 - **Languages & tools:**
